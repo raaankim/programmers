@@ -6,9 +6,9 @@ public class Java_12922 {
 
         for(int i=0; i<n; i++) {
             if(i%2 == 0) {
-                answer += "¼ö";
+                answer += "ìˆ˜";
             }else {
-                answer += "¹Ú";
+                answer += "ë°•";
             }
         }
 
